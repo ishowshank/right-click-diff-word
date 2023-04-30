@@ -1,4 +1,9 @@
-﻿param(
+#based on https://github.com/ForNeVeR/ExtDiff/Diff-Word.ps1
+#improve some codes including:
+#add finally block to clear program safely;
+#add $word.Documents.Application.CompareDocuments() function to compare with options customized
+
+param(
     [string] $BaseFileName,
     [string] $ChangedFileName
 )

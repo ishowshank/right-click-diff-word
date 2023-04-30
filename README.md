@@ -1,5 +1,5 @@
 # right-click-diff-word
-Compare word documents by right-click menu for Windows, based on Diff-Word
+Compare word documents by right-click menu for Windows, based on [ForNeVeR/ExtDiff/Diff-Word](https://github.com/ForNeVeR/ExtDiff)
 
 
 # How to install:
